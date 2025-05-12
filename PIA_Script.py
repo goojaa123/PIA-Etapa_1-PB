@@ -3,7 +3,7 @@ import statistics
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
-from PIA_Módulo_Script import obtener_datos_api, TOKEN
+from PIA_Módulo import obtener_datos_api, TOKEN
 
 # Coordenadas para realizar consultas en diferentes ubicaciones
 coordenadas = [
